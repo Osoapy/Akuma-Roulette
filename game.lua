@@ -32,9 +32,6 @@ function game.recharge()
                         end
                 end
         end
-        for i = 1, game.shots, 1 do
-                print(game.sequence[i])
-        end
 end
 
 function game.sleep(seconds)
